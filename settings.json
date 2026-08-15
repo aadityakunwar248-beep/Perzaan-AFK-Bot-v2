@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSoul",
+    "username": "Not_Jenish",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Blwto.aternos.me",
-    "port": 39823,
+    "ip": "Moon-LightSMP.aternos.me",
+    "port": 59735,
     "version": "1.21.1"
   },
   "position": {
